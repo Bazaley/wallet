@@ -2,7 +2,7 @@
   "name": "wallet-front",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Bazaley.github.io/Wallet-front/",
+  "homepage": "https://Bazaley.github.io/wallet/",
   "dependencies": {
     "@blueprintjs/core": "^4.17.8",
     "@emotion/react": "^11.10.6",
